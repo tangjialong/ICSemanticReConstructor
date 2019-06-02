@@ -13,12 +13,12 @@ If the code is used in your research, please cite our paper as follows:
 ```
 
 ## Note
-Most of this code and data are borrowed from:
+Most of this code and data are borrowed from: https://github.com/zhegan27/Semantic_Compositional_Nets
 ```
-@article{Li:ACL2018,
-  title={Transformation Networks for Target-Oriented Sentiment Classification},
-  author={Li, Xin and Bing, Lidong and Lam, Wai and Shi, Bei},
-  journal={ACL},
-  year={2018}
+@inproceedings{SCN_CVPR2017,
+  Author = {Gan, Zhe and Gan, Chuang and He, Xiaodong and Pu, Yunchen and Tran, Kenneth and Gao, Jianfeng and Carin, Lawrence and Deng, Li},
+  Title = {Semantic Compositional Networks for Visual Captioning},
+  booktitle={CVPR},
+  Year  = {2017}
 }
 ```
