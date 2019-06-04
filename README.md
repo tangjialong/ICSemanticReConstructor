@@ -4,11 +4,11 @@ Code for #Neurocomputing2019 paper "A Neural Image Captioning Model with Caption
 ## Citation
 If the code is used in your research, please cite our paper as follows:
 ```
-@article{Tang:ACL2019,
-  title={Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis},
-  author={Jialong Tang, Ziyao Lu, Jinsong Su, Yubin Ge, Linfeng Song, Le Sun, Jiebo Luo},
-  booktitle={ACL},
-  year={2019}
+@article{Su:NC2019,
+  author={Jinsong Su, Jialong Tang, Ziyao Lu, Xianpei Han, Haiying Zhang},
+  title={A Neural Image Captioning Model with Caption-to-Images Semantic Constructor},
+  year={2019},
+  journal={Neurocomputing}
 }
 ```
 
